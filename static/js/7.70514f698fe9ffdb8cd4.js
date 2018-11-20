@@ -1,1 +1,0 @@
-webpackJsonp([7],{iUR1:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"detail"},[this._v("\n  文章详情\n")])},staticRenderFns:[]};var a=n("C7Lr")({},r,!1,function(t){n("xPtr")},"data-v-17e66a59",null);e.default=a.exports},xPtr:function(t,e){}});
